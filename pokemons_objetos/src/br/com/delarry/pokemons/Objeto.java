@@ -128,7 +128,6 @@ public class Objeto {
 
     public void Imprimir()
     {
-        System.out.println(getName() + ":");
         System.out.println("Número na dex: " + getDexNumber());
         System.out.println("Tipo: " + getType());
         System.out.println("HP: " + getHp());
